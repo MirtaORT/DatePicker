@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string name="open_datepicker">Open Datepicker</string>
+    <string name="select_date">Select Date</string>
+    <string name="open_timepicker">Open Timepicker</string>
+</resources>
